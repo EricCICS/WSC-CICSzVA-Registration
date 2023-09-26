@@ -40,4 +40,4 @@ XXXXX Exercise [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Steve Fowlkes](mailto: fowlkes@us.ibm.com) or [Leigh Compton](lcompton@us.ibm.com) for help.
+Having trouble with labs? Send an email to [Steve Fowlkes](mailto: fowlkes@us.ibm.com) or [Leigh Compton](mailto: lcompton@us.ibm.com) for help.
